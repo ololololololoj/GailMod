@@ -1,1 +1,2 @@
 # GailMod
+A model that uses the risks to make an approximate prediction, and to be taken into consideration when carrying out further checks. The initial idea of the model was that it had a database that had been trained on a neural network, and that this was a regression problem, returning a probability. The industry standard for risk prevention does not involve machine learning, since there are formulas related to certain factors, making the use of technologies more advanced than a rules engine, which can be considered a waste of resources.
